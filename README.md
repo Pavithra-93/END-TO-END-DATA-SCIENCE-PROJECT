@@ -32,3 +32,4 @@ This end-to-end data science project demonstrates the full cycle of transforming
 
 ### OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/b62b26f4-7def-4e08-911d-a2304de9f131)
